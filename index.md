@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Práctica: Bug trackers y HelpDesk
 
 ![Imagen de prueba](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/1.png)
 
