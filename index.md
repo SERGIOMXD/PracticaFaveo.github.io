@@ -57,13 +57,27 @@
 ![Imagen21](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/21.png)
 ### y al igual que en el de ejemplo podremos agregar una respuesta con la solucion.
 
-![Imagen21](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/21.png)
+![Imagen22](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/22.png)
 ### Nos asignaremos este ticket a nosotros mismos para que nos salga en nuestra ventana.
 
-![Imagen22](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/22.png)
+![Imagen23](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/23.png)
 ### Aqui podemos verlo junto al de ejemplo en la ventana de nuestros tickets.
 
-![Imagen23](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/23.png)
+![Imagen24](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/24.png)
 ### Tambien en caso de que hayamos acabado con el podremos marcarlo de disferentes formas segun el estado.
 
-![Imagen24](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/24.png)
+![Imagen25](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/25.png)
+### Aqui podemos ver las cuentas creadas y informacion relativa a las mismas.
+
+![Imagen26](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/26.png)
+### En las herramientas entre otras cosas podremos generar respuestas predefinidas por si un error ocurre normalmente.
+
+![Imagen27](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/27.png)
+![Imagen28](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/28.png)
+![Imagen29](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/29.png)
+### Tambien tenemos un apartado de administracion del servicio donde podremos configurar diferentes aspectos.
+
+![Imagen30](https://github.com/SERGIOMXD/PracticaFaveo.github.io/blob/gh-pages/Imagenes/30.png)
+### Y para terminal los distintos sucesos que tengan que ver con nuestra cuenta se mostraran en el apartado de notificaciones arriba a la derecha.
+
+## Para empezar yo nunca habia usado antes este tipo de herramienta con lo cual no puedo compararla con otras, pero dentro de lo que cabe me ha parecido que estaba muy completa, la interfaz es bastante clara y no da lugar a errores, si tubiera que añadir algun problema diria que si la aplicacion nos da la opcion de cambiarle el idioma se deberia de cambiar completamente ya que hay partes sin traducir y se ve raro.
